@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working as a Software Engineer.  I love problem solving and be a part of complex technical challenge.
+I'm currently working as a Software Engineer.
 
 
 ## 🌐 Socials:
