@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am passionate Software Engineer skilled in FullStack Web Developement, curious about programming and the world of computers.
+👋 I am passionate Software Engineer skilled in FullStack Web Developement, curious about programming and the world of computers.
 
 
 ## 🌐 Socials:
